@@ -1,0 +1,16 @@
+{
+  "name": "test_terem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":  "node static-file-server.js"
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
+  }
+}
